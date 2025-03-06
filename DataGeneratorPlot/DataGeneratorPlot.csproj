@@ -9,8 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Constants\" />
     <Folder Include="Converters\" />
+    <Folder Include="Utils\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
   <ItemGroup>
