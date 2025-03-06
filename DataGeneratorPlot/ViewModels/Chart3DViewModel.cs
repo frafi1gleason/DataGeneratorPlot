@@ -4,7 +4,7 @@ using System.Collections.ObjectModel;
 
 namespace DataGeneratorPlot.UserControls
 {
-    // This is the develop branch
+    // This is the Faizan_UI branch
     [GenerateViewModel]
     public partial class Chart3DViewModel
     {
